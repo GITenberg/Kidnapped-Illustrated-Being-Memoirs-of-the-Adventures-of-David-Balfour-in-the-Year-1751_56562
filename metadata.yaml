@@ -1,5 +1,5 @@
 _repo: Kidnapped-Illustrated-Being-Memoirs-of-the-Adventures-of-David-Balfour-in-the-Year-1751_56562
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Wyeth, N. C. (Newell Convers)
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '32841'
     url: http://www.gutenberg.org/2009/agents/32841
     wikipedia: http://en.wikipedia.org/wiki/N._C._Wyeth
+covers:
+- cover_type: archival
+  image_path: 56562-h/images/cover.jpg
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35
     wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56562#Kidnapped-Illustrated-Being-Memoirs-of-the-Adventures-of-David-Balfour-in-the-Year-1751
 gutenberg_issued: '2018-02-13'
 gutenberg_type: Text
 identifiers:
